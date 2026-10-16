@@ -1,139 +1,129 @@
+<!-- 🌌 ANIMATED NEON HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:111827&height=200&section=header&text=ADAN%20YOUSAF&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SQA%20%7C%20WEB%20DEVELOPMENT%20%7C%20AI&descAlignY=58&descSize=15" width="100%" alt="Adan Yousaf neon banner"/>
-</p>
-# 👋 Hey, I'm Adan Yousaf
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SQA+%7C+Software+Testing;Web+Developer+%7C+Laravel+%26+PHP;AI+Developer+%7C+Python+Projects;Learning%2C+Building+%26+Improving" alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:111D4A,60:6D28D9,100:00E5FF&text=ADAN%20YOUSAF&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20QUALITY%20%7C%20DEVELOPMENT%20%7C%20AI&descSize=15&descAlignY=57&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%" alt="Animated neon header"/>
 </p>
 
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <b>Software Quality Assurance · Web Development · Artificial Intelligence</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%3E+Welcome+to+my+digital+world...;%3E+SQA+%7C+Software+Testing;%3E+Laravel+%7C+PHP+%7C+Web+Development;%3E+Python+%7C+AI+Experiments;%3E+Building.+Testing.+Improving." alt="Animated typing titles"/>
 </p>
 
-<p align="center">
-  I enjoy building web applications, exploring AI technologies, and learning how to make software more reliable through testing.
-</p>
-
+<!-- PROFILE LINKS -->
 <p align="center">
   <a href="https://github.com/adanyousaf2326-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Adan_Yousaf-111827?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/PROFILE-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-SQA%20%7C%20Development%20%7C%20AI-7C3AED?style=for-the-badge" alt="Areas of focus"/>
+  <img src="https://img.shields.io/badge/FOCUS-SQA-7C3AED?style=for-the-badge" alt="SQA focus"/>
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEV-2563EB?style=for-the-badge" alt="Web development focus"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI-059669?style=for-the-badge" alt="AI focus"/>
 </p>
 
----
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:00E5FF&height=3&section=header" width="75%" alt="Neon divider"/>
+</p>
 
-## 🧑‍💻 About Me
+## 🧬 `whoami`
 
-- 🎓 ADP Computer Science — Islamia University of Bahawalpur.
-- 🧪 Interested in Software Quality Assurance and software testing.
-- 🌐 Building and exploring web applications using Laravel and PHP.
-- 🤖 Exploring AI development with Python and JavaScript.
-- 📚 Continuously learning, practising, and improving my technical skills.
-- 🎯 Goal: Grow as a software professional and contribute to useful projects.
+```text
+Name       : Adan Yousaf
+Education  : ADP Computer Science
+Institute  : Islamia University of Bahawalpur
+Interests  : Software Testing, Web Development, AI
+Mindset    : Learn -> Build -> Test -> Improve
+```
 
----
+I enjoy exploring technology, developing web applications, experimenting with AI, and learning how to improve software quality.
 
-## 🛠️ Tech Stack
+- 🧪 Exploring Software Quality Assurance and testing practices.
+- 🌐 Working with Laravel, PHP, JavaScript and web technologies.
+- 🤖 Exploring personal AI assistant development with Python and JavaScript.
+- 🎯 Building practical projects and improving my technical skills.
+
+## ⚡ Tech Universe
 
 ### 💻 Development
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,vscode&theme=dark" alt="Development tools and technologies"/>
 </p>
 
-### 🧪 Software Quality Assurance
+### 🧪 Quality Assurance
 
 <p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-0EA5E9?style=for-the-badge" alt="Manual Testing"/>
-  <img src="https://img.shields.io/badge/Bug%20Reporting-DC2626?style=for-the-badge" alt="Bug Reporting"/>
-  <img src="https://img.shields.io/badge/Test%20Cases-7C3AED?style=for-the-badge" alt="Test Cases"/>
-  <img src="https://img.shields.io/badge/Web%20Testing-059669?style=for-the-badge" alt="Web Testing"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-00E5FF?style=for-the-badge&logo=checkmarx&logoColor=black" alt="Manual testing"/>
+  <img src="https://img.shields.io/badge/Test%20Cases-7C3AED?style=for-the-badge" alt="Test cases"/>
+  <img src="https://img.shields.io/badge/Bug%20Reporting-FF4D6D?style=for-the-badge" alt="Bug reporting"/>
+  <img src="https://img.shields.io/badge/Web%20Testing-059669?style=for-the-badge" alt="Web testing"/>
 </p>
 
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
-
----
+*I am developing my practical QA skills; these labels describe my learning focus, not certifications or professional experience.*
 
 ## 🚀 Featured Projects
 
-### 🍔 FoodHub — Food Ordering Web Application
+### 🍔 FoodHub
+**Laravel · PHP · MySQL**
 
-A Laravel-based food ordering project that I have been developing.
+A food-ordering web application project.
 
-- Built around food browsing and online ordering workflows.
-- Project repository: [View FoodHub on GitHub](https://github.com/adanyousaf2326-sketch/foodhub)
+- Explore the source code and project implementation.
+- [⚡ Open FoodHub Repository](https://github.com/adanyousaf2326-sketch/foodhub)
 
-### 🤖 ADHIM AI — Personal AI Assistant Project
+### 🤖 ADHIM AI
+**Python · JavaScript · HTML**
 
-An ongoing AI project exploring a personal assistant experience with Python and web technologies.
+A personal AI assistant project exploring assistant functionality and interface design.
 
-- Project focus: AI assistant development and interface experimentation.
-- Repository link will be added here when the project repository is ready to showcase.
+- Focus: AI experiments and assistant development.
+- Repository link: add the actual public repository URL when ready to showcase.
 
-### 🧪 SQA Practice & Testing
+### 🧪 SQA Lab
+**Testing · Test Cases · Bug Reports**
 
-A space for practising software testing and documenting quality assurance work.
+A dedicated space for practical software quality assurance work.
 
-- Test cases and test scenarios.
-- Bug reports with reproducible steps.
-- Web application testing notes.
+- Document test scenarios and expected results.
+- Practise reproducible bug reports.
+- Add evidence from applications tested with permission.
 
-*Testing portfolio links will be added as these materials become available.*
+- Repository link: add your SQA practice repository when available.
 
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Command Center
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanyousaf2326-sketch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adanyousaf2326-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanyousaf2326-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E2E8F0" height="180" alt="Public repository language statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanyousaf2326-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages"/>
+  <img src="https://streak-stats.demolab.com?user=adanyousaf2326-sketch&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="90%" alt="GitHub contribution streak"/>
 </p>
+
+<!-- CONTRIBUTION SNAKE: enable the workflow shown below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adanyousaf2326-sketch/adanyousaf2326-sketch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+</p>
+
+## 🎯 Current Mission
+
+- [ ] Improve manual testing and test case design.
+- [ ] Practise writing clear, reproducible bug reports.
+- [ ] Improve my web development projects.
+- [ ] Explore useful AI assistant capabilities.
+- [ ] Contribute to open-source projects.
+
+## 🤝 Connect & Explore
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adanyousaf2326-sketch&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- Improve practical software testing skills.
-- Build a stronger web development portfolio.
-- Experiment with AI-powered applications.
-- Learn better debugging, documentation, and version control practices.
-- Contribute to useful open-source projects.
-
----
-
-## 🤝 Connect With Me
-
-<p>
   <a href="https://github.com/adanyousaf2326-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <i>“Build with curiosity. Test with care. Improve every day.”</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Build+with+curiosity.;Test+with+care.;Keep+improving." alt="Animated closing message"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:111827&height=100&section=footer" alt="Neon footer banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:050816&height=140&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
 </p>

@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:111827&height=200&section=header&text=ADAN%20YOUSAF&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SQA%20%7C%20WEB%20DEVELOPMENT%20%7C%20AI&descAlignY=58&descSize=15" width="100%" alt="Adan Yousaf neon banner"/>
+</p>
 # 👋 Hey, I'm Adan Yousaf
 
 <p align="center">

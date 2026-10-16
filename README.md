@@ -1,129 +1,118 @@
-<!-- 🌌 ANIMATED NEON HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:111D4A,60:6D28D9,100:00E5FF&text=ADAN%20YOUSAF&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20QUALITY%20%7C%20DEVELOPMENT%20%7C%20AI&descSize=15&descAlignY=57&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%" alt="Animated neon header"/>
-</p>
+\<!-- NEON ANIMATED HEADER -->
 
-<!-- ⚡ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%3E+Welcome+to+my+digital+world...;%3E+SQA+%7C+Software+Testing;%3E+Laravel+%7C+PHP+%7C+Web+Development;%3E+Python+%7C+AI+Experiments;%3E+Building.+Testing.+Improving." alt="Animated typing titles"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:1D4ED8,60:7C3AED,100:06B6D4&text=ADAN%20YOUSAF&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=THE%20FUTURE%20IS%20BUILT%20BY%20CODERS&descSize=15&descAlignY=56&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0:020617,25:1D4ED8,60:7C3AED,100:06B6D4\&text=ADAN%20YOUSAF\&fontSize=52\&fontColor=FFFFFF\&fontAlignY=35\&desc=THE%20FUTURE%20IS%20BUILT%20BY%20CODERS\&descSize=15\&descAlignY=56\&animation=twinkling)" width="100%" alt="Neon animated header"/>
+\</p>
 
-<!-- PROFILE LINKS -->
-<p align="center">
-  <a href="https://github.com/adanyousaf2326-sketch">
-    <img src="https://img.shields.io/badge/PROFILE-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/FOCUS-SQA-7C3AED?style=for-the-badge" alt="SQA focus"/>
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEV-2563EB?style=for-the-badge" alt="Web development focus"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI-059669?style=for-the-badge" alt="AI focus"/>
-</p>
+\<!-- MULTI-LINE TYPING -->
 
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:00E5FF&height=3&section=header" width="75%" alt="Neon divider"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+INITIALIZING+ADAN.EXE;%3E+SOFTWARE+QUALITY+ASSURANCE;%3E+WEB+DEVELOPMENT+%2B+AI;%3E+THINK.+BUILD.+TEST.+REPEAT](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=800\&size=23\&duration=1800\&pause=500\&color=00F5FF\&center=true\&vCenter=true\&multiline=true\&repeat=true\&width=650\&height=100\&lines=%3E+INITIALIZING+ADAN.EXE;%3E+SOFTWARE+QUALITY+ASSURANCE;%3E+WEB+DEVELOPMENT+%2B+AI;%3E+THINK.+BUILD.+TEST.+REPEAT)." alt="Animated developer introduction"/>
+\</p>
 
-## 🧬 `whoami`
+\<p align="center">
+&#x20; \<img src="[https://komarev.com/ghpvc/?username=adanyousaf2326-sketch&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=adanyousaf2326-sketch\&style=for-the-badge\&color=7C3AED\&label=PROFILE+VIEWS)" alt="Profile views"/>
+&#x20; \<img src="[https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00E5FF?style=for-the-badge](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00E5FF?style=for-the-badge)" alt="Learning status"/>
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00F5FF,50:7C3AED,100\:EC4899](https://capsule-render.vercel.app/api?type=rect\&height=4\&color=0:00F5FF,50:7C3AED,100\:EC4899)" width="80%" alt="Neon divider"/>
+\</p>
+
+## `> SYSTEM.BOOT()`
 
 ```text
-Name       : Adan Yousaf
-Education  : ADP Computer Science
-Institute  : Islamia University of Bahawalpur
-Interests  : Software Testing, Web Development, AI
-Mindset    : Learn -> Build -> Test -> Improve
+[ OK ] Loading developer profile
+[ OK ] Initializing web development
+[ OK ] Exploring software testing
+[ OK ] Experimenting with artificial intelligence
+[ RUNNING ] Learning something new every day
 ```
 
-I enjoy exploring technology, developing web applications, experimenting with AI, and learning how to improve software quality.
+## 👨‍💻 ABOUT THE DEVELOPER
 
-- 🧪 Exploring Software Quality Assurance and testing practices.
-- 🌐 Working with Laravel, PHP, JavaScript and web technologies.
-- 🤖 Exploring personal AI assistant development with Python and JavaScript.
-- 🎯 Building practical projects and improving my technical skills.
+Hi! I'm **Adan Yousaf**, an ADP Computer Science graduate from Islamia University of Bahawalpur.
 
-## ⚡ Tech Universe
+- 🔬 Interested in Software Quality Assurance and testing.
+- 💻 Building and exploring web applications.
+- 🤖 Experimenting with AI assistant projects.
+- 🚀 Improving my skills through practical projects.
 
-### 💻 Development
+## ⚡ MY TECH UNIVERSE
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,vscode&theme=dark" alt="Development tools and technologies"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=php,laravel,python,js,html,css,mysql,git,github,vscode\&theme=dark)" alt="Technology icons"/>
+\</p>
 
-### 🧪 Quality Assurance
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/SQA-Testing-00E5FF?style=for-the-badge](https://img.shields.io/badge/SQA-Testing-00E5FF?style=for-the-badge)" alt="SQA"/>
+&#x20; \<img src="[https://img.shields.io/badge/Web-Development-7C3AED?style=for-the-badge](https://img.shields.io/badge/Web-Development-7C3AED?style=for-the-badge)" alt="Web development"/>
+&#x20; \<img src="[https://img.shields.io/badge/AI-Exploration-EC4899?style=for-the-badge](https://img.shields.io/badge/AI-Exploration-EC4899?style=for-the-badge)" alt="AI"/>
+\</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-00E5FF?style=for-the-badge&logo=checkmarx&logoColor=black" alt="Manual testing"/>
-  <img src="https://img.shields.io/badge/Test%20Cases-7C3AED?style=for-the-badge" alt="Test cases"/>
-  <img src="https://img.shields.io/badge/Bug%20Reporting-FF4D6D?style=for-the-badge" alt="Bug reporting"/>
-  <img src="https://img.shields.io/badge/Web%20Testing-059669?style=for-the-badge" alt="Web testing"/>
-</p>
+## 🚀 PROJECT DIMENSION
 
-*I am developing my practical QA skills; these labels describe my learning focus, not certifications or professional experience.*
+\<table>
+\<tr>
+\<td width="50%">
+\<h3>🍔 FoodHub\</h3>
+\<p>Laravel-based food ordering web application.\</p>
+\<a href="[https://github.com/adanyousaf2326-sketch/foodhub](https://github.com/adanyousaf2326-sketch/foodhub)">Explore Repository →\</a>
+\</td>
+\<td width="50%">
+\<h3>🤖 ADHIM AI\</h3>
+\<p>Personal AI assistant project using Python and web technologies.\</p>
+\<p>Repository link to be added when available.\</p>
+\</td>
+\</tr>
+\<tr>
+\<td width="50%">
+\<h3>🧪 SQA Lab\</h3>
+\<p>Practice test cases, test scenarios, and reproducible bug reports.\</p>
+\<p>Testing portfolio link to be added.\</p>
+\</td>
+\<td width="50%">
+\<h3>🌐 Next Project\</h3>
+\<p>Always exploring ideas, building prototypes, and improving existing work.\</p>
+\</td>
+\</tr>
+\</table>
 
-## 🚀 Featured Projects
+## 🏆 GITHUB TROPHY ROOM
 
-### 🍔 FoodHub
-**Laravel · PHP · MySQL**
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=adanyousaf2326-sketch&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6](https://github-profile-trophy.vercel.app/?username=adanyousaf2326-sketch\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=6\&row=1\&column=6)" width="100%" alt="GitHub trophies"/>
+\</p>
 
-A food-ordering web application project.
+## 📊 LIVE GITHUB DASHBOARD
 
-- Explore the source code and project implementation.
-- [⚡ Open FoodHub Repository](https://github.com/adanyousaf2326-sketch/foodhub)
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=adanyousaf2326-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED](https://github-readme-stats.vercel.app/api?username=adanyousaf2326-sketch\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=050816\&title_color=00E5FF\&icon_color=7C3AED)" width="49%" alt="GitHub statistics"/>
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=adanyousaf2326-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF](https://github-readme-stats.vercel.app/api/top-langs/?username=adanyousaf2326-sketch\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=050816\&title_color=00E5FF)" width="49%" alt="Top languages"/>
+\</p>
 
-### 🤖 ADHIM AI
-**Python · JavaScript · HTML**
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=adanyousaf2326-sketch&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=EC4899](https://streak-stats.demolab.com?user=adanyousaf2326-sketch\&theme=tokyonight\&hide_border=true\&background=050816\&ring=00E5FF\&fire=EC4899)" width="90%" alt="Contribution streak"/>
+\</p>
 
-A personal AI assistant project exploring assistant functionality and interface design.
+## 🐍 CONTRIBUTION ANIMATION
 
-- Focus: AI experiments and assistant development.
-- Repository link: add the actual public repository URL when ready to showcase.
+\<p align="center">
+&#x20; \<img src="[https://raw.githubusercontent.com/adanyousaf2326-sketch/adanyousaf2326-sketch/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/adanyousaf2326-sketch/adanyousaf2326-sketch/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Animated contribution snake"/>
+\</p>
 
-### 🧪 SQA Lab
-**Testing · Test Cases · Bug Reports**
+## 🎯 CURRENT MISSION
 
-A dedicated space for practical software quality assurance work.
+- [ ] Improve software testing skills.
+- [ ] Build better web applications.
+- [ ] Explore AI assistant capabilities.
+- [ ] Publish practical SQA work.
+- [ ] Contribute to open source.
 
-- Document test scenarios and expected results.
-- Practise reproducible bug reports.
-- Add evidence from applications tested with permission.
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00F5FF&center=true&vCenter=true&width=550&lines=KEEP+BUILDING.;KEEP+TESTING.;KEEP+EVOLVING](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=18\&pause=800\&color=00F5FF\&center=true\&vCenter=true\&width=550\&lines=KEEP+BUILDING.;KEEP+TESTING.;KEEP+EVOLVING)." alt="Animated closing message"/>
+\</p>
 
-- Repository link: add your SQA practice repository when available.
-
-## 📊 GitHub Command Center
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanyousaf2326-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanyousaf2326-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E2E8F0" height="180" alt="Public repository language statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adanyousaf2326-sketch&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="90%" alt="GitHub contribution streak"/>
-</p>
-
-<!-- CONTRIBUTION SNAKE: enable the workflow shown below -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adanyousaf2326-sketch/adanyousaf2326-sketch/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
-</p>
-
-## 🎯 Current Mission
-
-- [ ] Improve manual testing and test case design.
-- [ ] Practise writing clear, reproducible bug reports.
-- [ ] Improve my web development projects.
-- [ ] Explore useful AI assistant capabilities.
-- [ ] Contribute to open-source projects.
-
-## 🤝 Connect & Explore
-
-<p align="center">
-  <a href="https://github.com/adanyousaf2326-sketch">
-    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=550&height=35&lines=Build+with+curiosity.;Test+with+care.;Keep+improving." alt="Animated closing message"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:050816&height=140&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06B6D4,50:7C3AED,100:020617&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&height=160\&section=footer\&color=0:06B6D4,50:7C3AED,100:020617\&animation=twinkling)" width="100%" alt="Neon animated footer"/>
+\</p>
